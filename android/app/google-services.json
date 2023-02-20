@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722419049665",
+    "project_id": "muscle-ff0b0",
+    "storage_bucket": "muscle-ff0b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722419049665:android:d7ed4a7c2a79f1000e6040",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722419049665-57r83o79louv06o1ujs39rstf4iefkdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDEiQNxETk7Ub7-EdrTxHjzsU3YWun-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722419049665-57r83o79louv06o1ujs39rstf4iefkdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

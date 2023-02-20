@@ -1,0 +1,50 @@
+name: sensors_example
+description: Demonstrates how to use the sensors plugin.
+publish_to: none
+
+dependencies:
+  sqflite: ^1.3.0
+  fl_chart: ^0.36.1
+  flutter:
+    sdk: flutter
+  sensors:
+  charts_flutter: ^0.10.0
+  path: ^1.6.2
+  audioplayers: ^0.20.1
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+
+  # firebase_core: ^1.10.0
+  # cloud_firestore: ^3.1.0
+  # just_audio: ^0.9.18
+  
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  pedantic: ^1.10.0
+  hive_generator: ^1.1.1
+  build_runner: ^2.1.5
+
+flutter_icons:
+  image_path: 'assets/logo.png'
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/angle.png
+    - assets/orientation.png
+    - assets/acceleration.png
+    - assets/gyroscope.png
+    # - assets/ding.mp3
+
+#    - assets/logo.png,
+
+
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+  # sdk: 
+  # flutter: ">=1.20.0"
